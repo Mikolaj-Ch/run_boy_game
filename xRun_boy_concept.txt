@@ -1,0 +1,7 @@
+A simple gamy about person ( like title suggest it's a boy).
+Player have a control above a minion, he can move him.
+The player's task is to escape from monster/monsters.
+When minion touch monster - he lose. 
+The game will have a levels and difficult levels.
+Levels will be add monsters.
+Difficult levels will be increased speed of monsters.
